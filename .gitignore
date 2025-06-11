@@ -1,0 +1,4 @@
+*.jpg
+test/*.jpg
+train/*.jpg
+validation/*.jpg
