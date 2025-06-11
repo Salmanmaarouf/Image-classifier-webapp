@@ -1,4 +1,6 @@
 *.jpg
-test/*.jpg
-train/*.jpg
-validation/*.jpg
+*.jpeg
+*.png
+**/*.jpg
+**/*.jpeg
+**/*.png
