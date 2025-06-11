@@ -12,7 +12,8 @@ st.title("🥗 Image Classification App")
 st.markdown("Upload an image of a fruit or vegetable, and the model will predict what it is.")
 
 # --- Load trained Keras model ---
-model = load_model('/Users/salmanmaarouf/Documents/Projects/image_classification/Image_classify.keras')
+model = load_model("Image_classify.keras")
+
 
 # --- Class labels for prediction ---
 data_cat = [
